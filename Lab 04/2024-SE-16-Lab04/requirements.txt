@@ -1,6 +1,0 @@
-numpy
-opencv-python-headless
-matplotlib
-pandas
-notebook
-ipykernel
